@@ -1,0 +1,10 @@
+{
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://villux.hu/$1",
+      "permanent": true
+    }
+  ]
+}
